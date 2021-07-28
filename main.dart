@@ -10,7 +10,7 @@ import 'dart:async';
 // ***requisições sem precisar esperar, assincrona pra não travar a aplicação
 
 const request =
-    "https://api.hgbrasil.com/finance?format=json-cors&key=073bfe04";
+    "https://api.hgbrasil.com/finance?format=json-cors&key=CHAVEPESSOAL";
 //***link da API utilizada com chave própria
 
 void main() async {
